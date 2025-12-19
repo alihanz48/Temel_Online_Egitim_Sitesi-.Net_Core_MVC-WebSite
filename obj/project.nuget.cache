@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MILa8nBPBXk=",
+  "dgSpecHash": "H3650PtVO/g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AlihanDursun\\Desktop\\asp.net_core\\EntityFrameworkCoreApp\\EntityFrameworkCoreApp.csproj",
+  "projectFilePath": "C:\\Users\\AlihanDursun\\Desktop\\git_hub_güncellenecekler\\13\\Temel_Online_Egitim_Sitesi-.Net_Core_MVC-WebSite\\EntityFrameworkCoreApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AlihanDursun\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\AlihanDursun\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
